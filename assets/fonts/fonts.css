@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'ApercuRegular';
+    src: url('Apercu.eot');
+    src: url('Apercu.eot?#iefix') format('embedded-opentype'),
+        url('Apercu.woff2') format('woff2'),
+        url('Apercu.woff') format('woff'),
+        url('Apercu.ttf') format('truetype'),
+        url('Apercu.svg#Apercu') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ApercuMedium';
+    src: url('Apercu-Medium.eot');
+    src: url('Apercu-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Apercu-Medium.woff2') format('woff2'),
+        url('Apercu-Medium.woff') format('woff'),
+        url('Apercu-Medium.ttf') format('truetype'),
+        url('Apercu-Medium.svg#Apercu-Medium') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ApercuBold';
+    src: url('Apercu-Bold.eot');
+    src: url('Apercu-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Apercu-Bold.woff2') format('woff2'),
+        url('Apercu-Bold.woff') format('woff'),
+        url('Apercu-Bold.ttf') format('truetype'),
+        url('Apercu-Bold.svg#Apercu-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

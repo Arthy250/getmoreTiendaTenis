@@ -1,0 +1,28 @@
+$(document).ready(function(){
+    $('.productos').owlCarousel({
+        loop:true,
+        margin:10,
+        responsiveClass:true,
+        lazyLoad:true,
+        smartSpeed:500,
+        autoplay:false,
+        autoplayTimeout:2500,
+        autoplayHoverPause:true,
+        nav:true,
+        navText: ["<img src='/assets/img/leftArrow.svg'>","<img src='/assets/img/rightArrow.svg'>"],
+        responsive:{
+            0:{
+                items:1,
+                nav:true,
+            },
+            768:{
+                items:2,
+                nav:true,
+            },
+            1024:{
+                items:3,
+                nav:true,
+            }
+        }
+    })
+  });
