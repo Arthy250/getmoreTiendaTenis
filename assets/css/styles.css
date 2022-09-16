@@ -109,7 +109,7 @@ img{
 
 /* Header */
 .hero{
-    background-image: url('/assets/img/hero_bg.jpg');
+    background-image: url('../img/hero_bg.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -266,16 +266,16 @@ img{
 }
 
 .categoria1{
-    background-image: url(/assets/img/categorias/cat_1.jpg);
+    background-image: url(../img/categorias/cat_1.jpg);
 }
 .categoria2{
-    background-image: url(/assets/img/categorias/cat_2.jpg);
+    background-image: url(../img/categorias/cat_2.jpg);
 }
 .categoria3{
-    background-image: url(/assets/img/categorias/cat_3.jpg);
+    background-image: url(../img/categorias/cat_3.jpg);
 }
 .categoria4{
-    background-image: url(/assets/img/categorias/cat_4.jpg);
+    background-image: url(../img/categorias/cat_4.jpg);
 }
 .categoria4{
     align-items: center;

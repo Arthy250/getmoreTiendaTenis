@@ -9,7 +9,7 @@ $(document).ready(function(){
         autoplayTimeout:2500,
         autoplayHoverPause:true,
         nav:true,
-        navText: ["<img src='/assets/img/leftArrow.svg'>","<img src='/assets/img/rightArrow.svg'>"],
+        navText: ["<img src='./assets/img/leftArrow.svg'>","<img src='./assets/img/rightArrow.svg'>"],
         responsive:{
             0:{
                 items:1,
